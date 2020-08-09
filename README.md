@@ -1,2 +1,5 @@
 # retinal-damage-identifier
-Identify retinal damage from OCT scan images
+
+Detect Retinal damage from OCT scan images using Deep Learning.
+
+# PROJECT FILES WILL BE UPLOADED SOON
