@@ -2,4 +2,4 @@
 
 Detect Retinal damage from OCT scan images using Deep Learning.
 
-# PROJECT FILES WILL BE UPLOADED SOON
+# PROJECT FILES WILL BE UPLOADED SOON!
